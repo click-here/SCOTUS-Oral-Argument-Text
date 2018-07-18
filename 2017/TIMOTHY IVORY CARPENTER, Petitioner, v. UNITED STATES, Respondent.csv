@@ -1,0 +1,342 @@
+"John G. Roberts, Jr.","We'll hear argument this morning in Case 16-402, Carpenter versus United States."
+"John G. Roberts, Jr.","We'll hear argument this morning in Case 16-402, Carpenter versus United States."
+Nathan Freed Wessler,Thank you.
+Anthony M. Kennedy,"So what -- what is the rule that you want us to adopt in this case, assuming that we keep Miller -- Miller and Smith versus Maryland on the books?"
+Nathan Freed Wessler,The rule we seek is that longer-term periods or aggregations of cell site location information is a search and requires a warrant.
+"Samuel A. Alito, Jr.",How would you distinguish Miller?
+Nathan Freed Wessler,"Miller involved more limited records, certainly they could reveal some sensitive information, but more limited records and, as this Court held, they were voluntarily conveyed in that they were created by the passing of negotiable instruments into the stream of commerce to transfer funds. What we have here is both more sensitive and less voluntary."
+"Samuel A. Alito, Jr.","Why is it more -- why is it more sensitive? Why is cell site location information more sensitive than bank records, which particularly today, when a lot of people don't use cash much, if at all, a bank record will disclose purchases? It will not only disclose -- everything that the person buys, it will not only disclose locations, but it will disclose things that can be very sensitive."
+Nathan Freed Wessler,"I absolutely agree, Justice Alito, that the information in bank records can be quite sensitive, but what it cannot do is chart a minute-by-minute account of a person's locations and movements and associations over a long period regardless of what the person is doing at any given moment."
+"Samuel A. Alito, Jr.","Yeah, I understand that."
+Anthony M. Kennedy,And particularly --
+"Samuel A. Alito, Jr.",-- and all sorts of other things.
+Anthony M. Kennedy,Particularly because the information in the bank records that Justice Alito referred to are not publicly known.
+Nathan Freed Wessler,"Well, I -- I don't agree, Your Honor, for the following reason: When a person is engaged in a financial transaction, passing a -- a check, a negotiable instrument, that's an interpersonal transaction where a person has full knowledge that they are putting something into the stream of commerce to transfer funds directed at their -- their bank. As the five concurring justices made clear in Jones, although we may, when we step outside, have a reasonable expectation that someone may see where we go in a short period, nobody has expected in -- in a free society that our longer-term locations will be aggregated and tracked in the way that they can be here."
+Ruth Bader Ginsburg,You keep emphasizing longer term.
+Anthony M. Kennedy,"Yes, I was going to ask about that."
+Ruth Bader Ginsburg,"Now, suppose what was sought here was the CSLI information for the day of each robbery, just one day, the day of each robbery."
+Nathan Freed Wessler,"So the -- Your Honor, the -- the rule we proposed would be a single 24-hour period, contiguous 24-hour period. Now, the only other court to address this question is the --"
+Sonia Sotomayor,"I'm sorry, which -- in which way are you talking about? What rule?"
+Nathan Freed Wessler,So -- sorry.
+Sonia Sotomayor,But Justice Ginsburg is not asking you about 24 hours or anything else.
+Nathan Freed Wessler,"Justice Sotomayor, yes. I -- I think that would not be affected at all by -- by this case."
+Sonia Sotomayor,So what's the difference between a tower dump and targeting a particular individual? Let's say an anonymous call came in that said John X or John Doe was at a particular -- was the robber. Could the police then say to the telephone company let me see the records of John Doe for that hour or for that day or whatever the -- the duration of the crime was?
+Nathan Freed Wessler,Yes.
+Sonia Sotomayor,All right.
+Ruth Bader Ginsburg,"Mr. Wessler, could we go back to my question? You said 24 hours roughly."
+Nathan Freed Wessler,"So, Your -- Your Honor, we've suggested 24 hours."
+"John G. Roberts, Jr.","No, now --"
+Ruth Bader Ginsburg,"Well, what -- if it's reasonable for one robbery, one day, why wouldn't it be reasonable -- equally reasonable for each other robbery?"
+Nathan Freed Wessler,"Well, I -- I think the risk is a risk of circumvention of this Court's rule from Jones and of whatever the durational requirement is."
+Anthony M. Kennedy,But the -- the longer term is more corroborative perhaps of innocence.
+Nathan Freed Wessler,Well --
+Anthony M. Kennedy,It seems to me that the -- the rule you're proposing might be -- avoid in -- exculpatory information.
+Nathan Freed Wessler,"Well, Your Honor, we would fully expect that if the government obtained a short period of data that was -- appeared to be inculpatory, that would provide probable cause for a warrant to gather a much wider amount of data if -- if needed, or in the pretrial process, the defendant, him or herself, could obtain other records from the carrier and use those as exculpatory evidence. Though the concern here is with the privacy invasion, which is quite severe over the long term, over these more than four months of data."
+Elena Kagan,It would help me --
+"John G. Roberts, Jr.","I want to understand the -- the basis for the 24-hour, however long you want it to be, exception."
+Nathan Freed Wessler,"So the -- the only other court to address this question is the Supreme Judicial Court of Massachusetts, which drew the line at six hours."
+"John G. Roberts, Jr.","Well, I don't understand."
+Nathan Freed Wessler,"Well, Your Honor, certainly we would be perfectly happy with a rule from this Court requiring a warrant as a per se matter."
+"John G. Roberts, Jr.","Well, another thing the government's never had is the ability to go back even for 24 hours and basically test everybody, everybody in the whole community or anyone who happened to be there. So I don't know why that isn't a consideration that cuts against preserving 24 hours two months ago. The government didn't have the capability of tracking a particular individual, or every individual, and they find out later that's the one they want, so I -- I don't understand the coherence of your argument on that point."
+Nathan Freed Wessler,"Well, I -- I do think that a different concern would be raised by the -- the tower dump type situation that Justice Sotomayor posited."
+Sonia Sotomayor,"But isn't that the same concern here? And that's why I -- I'm differentiating between incident-related searches and basically dragnet searches when you're looking at what a person is doing over 127, 30, 40, even 24 hours, which is it's not related to any legitimate police need to invade the privacy of a person over a 24-hour period, unless there's a suggestion that the crime occurred during that entire 24-hour period. So that's why I asked you is there a difference between saying if police have cause to believe a crime has been committed, can they ask for records related to that individual crime, even if it happened on one day, a second day, a fourth day, a 10th day, so long as they're limiting their search as related to a criminal activity, as opposed to a dragnet sweep of everybody's intimate details? Because right now we're only talking about the cell sites records, but as I understand it, a cell phone can be pinged in your bedroom."
+Nathan Freed Wessler,"Your Honor, first, you're absolutely correct that today, in the seven years that have elapsed since the data was gathered in this case, network technology has advanced quite markedly. And today not only is data gathered for phone calls but also text messages and data connections, including when a phone is in a pocket passively and automatically checking for new e-mails or social media messages or weather alerts, and today the government is able to obtain historical cell site location information that can locate a person as precisely as half the size of this courtroom."
+"Samuel A. Alito, Jr.","Well, you know, Mr. Wessler, I -- I agree with you that this new technology is raising very serious privacy concerns, but I need to know how much of existing precedent you want us to overrule or declare obsolete. And if I could, I'd just like to take you back briefly to -- to Miller and ask on what grounds that can be distinguished."
+Nathan Freed Wessler,So both Miller and Smith identified at least two factors to take into account in the reasonable expectation of privacy analysis: the nature of the records or their sensitivity and whether they're voluntarily conveyed. And I think here there is also a great distinction on voluntariness.
+"Samuel A. Alito, Jr.","Well, I mean, that's a debatable empirical point whether people realize what's -- what's going on, and there's reason to think maybe they do. I mean, people know, there -- there were all these commercials, ""can you hear me now,"" our company has lots of towers everywhere."
+Nathan Freed Wessler,"Three points, Your Honor."
+"Samuel A. Alito, Jr.",Except as provided by law.
+Ruth Bader Ginsburg,"As to -- as to other -- as to other private persons, not as to the government."
+Nathan Freed Wessler,That's right.
+Anthony M. Kennedy,"But your argument, as I understood it from the brief and I'm hearing it today, makes the Stored Communications Act and the 20 -- is it 2703(d) order irrelevant."
+Nathan Freed Wessler,"Justice Kennedy, Congress enacted the Stored Communications Act in 1986 and amended it in relevant part in 1994."
+Anthony M. Kennedy,"Well, you mean -- you mean the Act was more necessary when there were fewer cell phones?"
+Nathan Freed Wessler,"No, not -- not --"
+Anthony M. Kennedy,It seems to me just the opposite.
+Nathan Freed Wessler,"Not at all, Your Honor. My point is that Congress quite clearly was not thinking about the existence of, and certainly not law enforcement interest in, historical cell site location information."
+Anthony M. Kennedy,"Well, again, my question is, you give zero weight in your arguments to the fact that there is some protection?"
+Nathan Freed Wessler,"Your Honor, we acknowledge fully that there is some protection, a touch more than a traditional subpoena because a judge is involved, but we think it is insufficient in the context of records held by a third-party in which the subject of the investigation --"
+Ruth Bader Ginsburg,"And yet you said, I think you said in your brief, that in most of the cases where you get one of these 2703(d) orders, in the mine run of cases, you said there was probably enough there to get a warrant."
+Nathan Freed Wessler,"In this case, it -- it is quite possible that the government could have."
+Sonia Sotomayor,"Are we -- are we radically extending them? From the very beginning, Smith, for example, basically said the disclosure at issue doesn't disclose the content of the conversation."
+Nathan Freed Wessler,"Absolutely, Your Honor. We agree that the contents of electronic communications should be protected, as I think the government agrees in its -- its brief."
+Stephen G. Breyer,All right --
+Nathan Freed Wessler,-- from a smartphone app would -- would be vulnerable.
+"Samuel A. Alito, Jr.",Suppose that in this -- suppose that in this case there was a subpoena for the -- the numbers called from the cell phone.
+Nathan Freed Wessler,"No, Your Honor."
+"Samuel A. Alito, Jr.","You think the numbers called, the people that somebody is calling is -- is less -- that's less sensitive than the person's location?"
+Nathan Freed Wessler,I certainly --
+"Samuel A. Alito, Jr.",How -- how are we going to judge the sensitivity of -- of information like this?
+Nathan Freed Wessler,"Well, I -- I think that the -- the concurring opinions in -- in Jones, Your Honor, already judge the sensitivity of this information."
+Anthony M. Kennedy,Suppose law enforcement officers had followed this person for 127 days.
+Nathan Freed Wessler,"Well, as the concurrences made clear in Jones, that would be a highly unlikely endeavor, but even more unlikely here because this is not real-time."
+Anthony M. Kennedy,"Well, for the hypothetical, suppose it happened."
+Nathan Freed Wessler,"No, I think, you know, people's normal expectation is that that typically won't happen, but if it does, the Fourth Amendment does not protect against that. Now, here --"
+Anthony M. Kennedy,"Well, frankly, if -- if we're going to talk about normal expectations and we have to make the judgment, it seems to me there's a much more normal expectation that businesses have your cell phone data."
+Anthony M. Kennedy,But I -- I don't think there's an expectation that people are following you for 127 days.
+Nathan Freed Wessler,"Well, I -- I agree, but there's --"
+Anthony M. Kennedy,Which is my hypothetical.
+Nathan Freed Wessler,"Well, I agree, Your Honor, but I think that the -- the concurrences in Jones laid out a -- an analysis of why there's a difference between using technology to make that trailing -- tailing possible in every case as opposed to the very rare circumstance where it might happen."
+Elena Kagan,"Mr. Wessler, can I ask you about your understanding of the state of the technology now? Because the government represents in -- in its briefs, and it has those pictures in its briefs, suggesting that you -- you -- that the information that's gleaned from this is -- is very -- it's sort of general, it's vague, it doesn't pinpoint exactly where you are, and in order to make effective use of it, it has to be combined with many other pieces of information. And, you know -- you know, A, do you agree with that, but, B, what is your view of -- of the relevance of the fact that information may not be useful in itself but may be useful in combination with other information? Does that make a difference?"
+Nathan Freed Wessler,"Justice Kagan, so on the first point, we agree that, as of 2010 and 2011 where the records in this case come from, they were generally less precise than the GPS data in Jones, but we don't think that that makes a difference for the Fourth Amendment rule for a few reasons. First, to go to the second part of your -- your question, even in Jones, the data lacked precision."
+Neil Gorsuch,"Just, Mr. -- Mr. Wessler, along those lines, one more kind of technical question."
+Nathan Freed Wessler,"Yeah, there's no -- there's no direct requirement that these location records be kept."
+Stephen G. Breyer,Are --
+"John G. Roberts, Jr.","Counsel, you avoid taking a position on the question in your brief, but I'd like you to do -- take one today."
+Nathan Freed Wessler,"No, I -- I don't think there is any reason."
+Stephen G. Breyer,"Since I'm seeing your argument, it -- it -- it starts with a place where I completely agree."
+Nathan Freed Wessler,"Justice Breyer, I think in -- in future cases in the lower courts and perhaps back before Your Honors, it would be relatively straightforward to define discrete categories of information that may be protected. I think perhaps certain other types of location records, information about the state of the body, like heart rate data from a smart watch, or fertility tracking data from a smartphone app, information about the interior of a home, for example, from a smart thermostat that knows when the homeowner is at home and perhaps what room they're in, communicative contents, not only the contents of e-mails but I think search queries to Google, not every record will or should be protected, and I think it is totally consistent with the role of the lower courts to take an interpretive principle from this Court and begin to apply it and over time --"
+"John G. Roberts, Jr.",One --
+Nathan Freed Wessler,-- clarity will emerge.
+Stephen G. Breyer,You want to add one --
+"John G. Roberts, Jr.",One thing -- I'm sorry.
+Stephen G. Breyer,"Maybe you want to add one thing, because I suspect you'll hear in a minute that all the imperfections of Miller, given your answer, and what I'm thinking, too, I quite agree with you, this is an open box. We know not where we go."
+Nathan Freed Wessler,"Well, Your Honor, lower courts have been struggling mightily to apply Miller and Smith to highly sensitive digital age records. And as to these historical location records, the five courts of appeals to address this have generated 20 majority concurring and dissenting opinions, many of them virtually begging this Court to provide guidance for how to protect these sensitive digital records that the Court simply could not have imagined four decades ago."
+"John G. Roberts, Jr.","A lot of what you're talking about and a lot of what the questions concern, I think, is addressed under the question whether a warrant should issue as opposed to whether a warrant is required. Under current practice, when you're getting a warrant, it makes a difference if you go in and say I want to search the entire house for anything I can find and if you say I want to search the drawers for business records that we think are related to blah, blah, blah. And so it's the same thing here."
+Nathan Freed Wessler,"Your Honor, we certainly think that the -- the probable cause and particularity requirements of a warrant will -- will do a lot of work to -- to focus investigations. In an investigation like this, perhaps 127 days or 152, as the original request was, would not all be appropriate."
+Ruth Bader Ginsburg,Can you tell me what is the difference between the 2703(d) order and a warrant? What are situations where you could get the order but not a warrant?
+Nathan Freed Wessler,So the -- the standard for issuance of the order is lower.
+Neil Gorsuch,"Mr. Wessler, I'm sorry, one quick question."
+Nathan Freed Wessler,So I -- I think it's possible.
+Neil Gorsuch,Uh-huh.
+Nathan Freed Wessler,-- sort of tort analog to what we have here.
+Neil Gorsuch,"No, I understand 222."
+Nathan Freed Wessler,"State -- state courts have not, to my knowledge."
+Neil Gorsuch,Right.
+Nathan Freed Wessler,-- certainly conversion applies --
+Neil Gorsuch,Right.
+Nathan Freed Wessler,-- but not directly here.
+Neil Gorsuch,Okay.
+Nathan Freed Wessler,Thank you.
+"John G. Roberts, Jr.","Thank you, counsel. Mr. Dreeben."
+Michael R. Dreeben,"Mr. Chief Justice, and may it please the Court: The technology here is new, but the legal principles that this Court has articulated under the Fourth Amendment are not. The cell phone companies in this case function essentially as witnesses being asked to produce business records of their own transactions with customers. The cell systems cannot function without information about where the phones are located."
+Michael R. Dreeben,"Mr. Chief Justice, and may it please the Court: The technology here is new, but the legal principles that this Court has articulated under the Fourth Amendment are not. The cell phone companies in this case function essentially as witnesses being asked to produce business records of their own transactions with customers. The cell systems cannot function without information about where the phones are located."
+Sonia Sotomayor,But asking --
+"John G. Roberts, Jr.","This is not simply created by the company, though."
+Michael R. Dreeben,"Well, that's certainly true, but it's no less true in Smith and Miller."
+Sonia Sotomayor,"No, they don't give it to the bank."
+Michael R. Dreeben,"Well, Justice Sotomayor, I think that there are a zillion different ways to carry out financial transactions, including some that involve giving a check to a person. Many involve going to the bank directly and having the bank conduct the financial transaction. Anybody who writes a check understands that the check will be submitted to the bank so that the bank can pay."
+Sonia Sotomayor,"Mr. Dreeben, why is it not okay, in the way we said about beepers, to plant a beeper in somebody's bedroom, but it's okay to get the cell phone records of someone who I -- I don't, but I know that most young people have the phones in the bed with them. (Laughter.)"
+Sonia Sotomayor,All right? I know people who take phones into public restrooms. They take them with them everywhere.
+Michael R. Dreeben,"So, Justice Sotomayor, I will answer the question about cell phone location in a house, but I think it's important that the Court understand that this case involves very generalized cell sector information --"
+Sonia Sotomayor,"That's today, Mr. Dreeben, but we need to look at this with respect to how the technology is developing."
+Michael R. Dreeben,"Well, I think Justice Sotomayor --"
+Sonia Sotomayor,You -- we can beep phones in a bedroom now.
+Michael R. Dreeben,"You -- you -- well, there's a distinction between acquiring GPS information from a phone and acquiring cell site information from a business."
+Sonia Sotomayor,"Well, this is no different than a telephone company having access to your telephone conversations."
+Michael R. Dreeben,"No, I think --"
+Sonia Sotomayor,-- in Smith.
+Michael R. Dreeben,-- it's -- it's very different from it.
+Sonia Sotomayor,"Yeah, but -- but an -- in an envelope, you seal the envelope. You can -- you can yourself control the public disclosure. But with telephones, the telephone company could have plugged in and listened to your conversation just as easily as these telecommunications companies can read your e-mails if they choose."
+Michael R. Dreeben,That is true.
+Elena Kagan,"Mr. Dreeben, how is this different from Jones? You know, in Jones, there were a couple of different opinions, but five justices, as -- as I count it, said this -- this is from Justice Alito's opinion: ""Society's expectation has been that law enforcement and others would not, and indeed in the main simply cannot, monitor and catalogue every single movement of an individual's"" -- there it was a car -- ""for a long period."" So how is it different from that?"
+Michael R. Dreeben,"I think it's fundamentally different, Justice Kagan, because this involves acquiring the business records of a provider which has determined to keep these records of the cell site information. Jones involved government surveillance."
+Elena Kagan,"So the question is why that should make more of a difference than the obvious similarity between this case and Jones? And the obvious similarity is that, in both cases, you have reliance on a new technology that allows for 24/7 tracking. Now, you're exactly right, there were different means, but in both cases, you have a new technology that allows for 24/7 tracking and a conclusion by a number of justices in Jones that that was an altogether new and different thing that did intrude on people's expectations of who would be watching them when."
+Michael R. Dreeben,So the -- the people who are watching in this case are the phone companies because people have decided to sign up for cellular service in which it is a necessity of the service that your phone communicate with a tower and a business record is generated. People who dial phone numbers on calls know that they're being routed through a cell phone or a landline provider.
+Sonia Sotomayor,"Mr. Dreeben, what do you do with the survey mentioned by your opposing colleague that says that most Americans, I still think, want to avoid Big Brother."
+Michael R. Dreeben,I don't --
+Sonia Sotomayor,The -- the Constitution protects the rights of people to be secure.
+Michael R. Dreeben,"So, in instances like this, Justice Sotomayor --"
+Sonia Sotomayor,-- for months and months at a time?
+Michael R. Dreeben,"-- involving rapidly changing technology and privacy expectations that are being measured here by surveys, the proper body to address that is Congress. And Congress has been active in this area."
+Sonia Sotomayor,"Well, the question is, was it -- the fact that Congress recognized how sensitive this information is, is quite laudatory, but did it understand the measure of the constitutional requirement of what protections should be given to that? I mean, I -- I can defer to Congress's understanding of the privacy needs, but does that create an obligation for me to defer to their judgment of what protections the Constitution requires? The Constitution has always said government can't intrude, except in some carefully defined situation, special needs being foremost among them -- can't intrude on those privacy interests without a warrant. We're not saying they can't ever."
+Michael R. Dreeben,"But the new standard here would be saying that the business records of a third party, when acquired by the government, constitute a --"
+Sonia Sotomayor,But we have --
+Michael R. Dreeben,-- search of --
+Sonia Sotomayor,"-- we have said -- you know, we have made exceptions all the time, Ferguson, Bond, even in creating Smith and Miller, we created an exception."
+Michael R. Dreeben,I think there was a well-developed framework at the time of Smith and Miller that the Court applied to Smith and Miller.
+Neil Gorsuch,"Mr. Dreeben, I'd like to -- I'd like to drill down on that and return to Justice Kagan's question."
+Michael R. Dreeben,"I suppose that if you are insisting that I acknowledge that it's a property right, some consequences are going to follow --"
+Neil Gorsuch,Right.
+Michael R. Dreeben,-- from that.
+Neil Gorsuch,Okay.
+Michael R. Dreeben,I don't think you can --
+Neil Gorsuch,But let's just -- let's --
+Michael R. Dreeben,I don't think you can make that assumption.
+Neil Gorsuch,"-- let's stick with my hypothetical, counsel, okay? I know you don't like it."
+Neil Gorsuch,"But let's say that, in fact, I've got positive law that indicates it is a property right."
+Michael R. Dreeben,"I wouldn't, and I --"
+Neil Gorsuch,But why not?
+Michael R. Dreeben,Because it's not your paper or your effect.
+Neil Gorsuch,If property law says it is.
+Michael R. Dreeben,"Well, I don't think property law does say that it is."
+Neil Gorsuch,"Well, that's fighting the hypothetical, counsel."
+Michael R. Dreeben,"Justice Gorsuch, I think that the problem with the hypothetical is that it creates a property interest --"
+Neil Gorsuch,All right.
+Michael R. Dreeben,-- out of transfers of information.
+Neil Gorsuch,"Please -- please, could you stick with my hypothetical and then you can tell me why it's wrong."
+Michael R. Dreeben,All right.
+Neil Gorsuch,"Under my hypothetical, you have a property right in this information. Would it be a search of my paper and effect? Yes or no."
+Michael R. Dreeben,I am not sure.
+Neil Gorsuch,"You're not here to deny that there might be a property interest and, therefore, a search?"
+Michael R. Dreeben,"No, I am -- I'm here to deny there's a property interest in cell site information about e-mail --"
+Neil Gorsuch,"In my -- in my hypothetical, if there were a property interest, you're not here to deny that that would be a search of my paper and effect?"
+Michael R. Dreeben,I'm not here to concede it either.
+Neil Gorsuch,Okay.
+Michael R. Dreeben,And the reason that -- (Laughter.)
+Michael R. Dreeben,The reason that I can't concede it is it's a property right that resembles no property right that's existed.
+Neil Gorsuch,I think you --
+"Samuel A. Alito, Jr.","Yeah, Mr. Dreeben, along those lines, I was trying to think of an example of a situation in which a person would have a property right in information that the person doesn't ask a third-party to create, the person can't force the third-party to create it or to gather it."
+Michael R. Dreeben,"So, Justice Alito, those are a lot of good reasons on why this should not be recognized as a property interest."
+Neil Gorsuch,"Well, what does Section 222 do, other than declare this customer proprietary network information --"
+Michael R. Dreeben,So that --
+Neil Gorsuch,-- that the carrier cannot disclose?
+Michael R. Dreeben,It -- it does that in conjunction with a provision that it shall be disclosed as required by law.
+Neil Gorsuch,"So -- so, but let me ask you that."
+Michael R. Dreeben,"No, no, but I think that the --"
+Neil Gorsuch,"And so -- so could we also say maybe that they also get this property right subject to having a non-Article III judge decide the case, or quartering of troops in your home? Could we strip your property interests of all constitutional protection?"
+Michael R. Dreeben,"Well, those are pretty far afield."
+Neil Gorsuch,Are they?
+Michael R. Dreeben,-- is that Congress has set up a regime to protect privacy interests in information.
+Neil Gorsuch,"But does Congress's determination also yield in the face of the Fourth Amendment, Mr. Dreeben?"
+Michael R. Dreeben,It does not.
+Neil Gorsuch,It does not.
+Michael R. Dreeben,But what interests the statute --
+Neil Gorsuch,In the government's -- in the government's view.
+Michael R. Dreeben,I think I said the opposite.
+Neil Gorsuch,"Oh, good."
+Michael R. Dreeben,So I think we're on common ground that the Fourth --
+Neil Gorsuch,"So the Fourth Amendment controls, not -- not what the statute says --"
+Michael R. Dreeben,Well --
+Neil Gorsuch,-- with respect to the disclosure of the information?
+Michael R. Dreeben,-- the Fourth Amendment applies once the Court has identified what interest the statute creates.
+Neil Gorsuch,Right.
+Michael R. Dreeben,"Well, it --"
+Neil Gorsuch,-- in Section 222 and then the Fourth Amendment will determine when it can be revealed.
+Michael R. Dreeben,No.
+Neil Gorsuch,Why does the statute control the Constitution? I think you are saying the statute controls the Constitution.
+Michael R. Dreeben,"No, I think that the interests that the statute creates have to be looked at as a whole."
+Neil Gorsuch,So the bitter -- the bitter with the sweet.
+Michael R. Dreeben,"Yeah, I know the Court has rejected that in the due process context, but here we are looking at what interests Congress has sought to protect and --"
+Neil Gorsuch,So -- so why --
+"John G. Roberts, Jr.",Mr. Dreeben --
+Neil Gorsuch,-- why -- why -- why couldn't Congress also say you don't get an Article III judge to determine this issue?
+Michael R. Dreeben,"That seems so non-germane to what Congress was trying to do. In Section 222, what Congress was trying to do was to say, look, the -- the companies are collecting a large amount of information. We recognize that there are privacy interests in this."
+"Samuel A. Alito, Jr.","Yeah, Mr. Dreeben, I would read the -- the -- the phrase ""customer proprietary information"" to mean that it is proprietary to the cell phone company and, therefore, not to the customer."
+Michael R. Dreeben,Justice Alito --
+"Samuel A. Alito, Jr.",Am I wrong in that?
+Michael R. Dreeben,"I am not sure that that is the way that Congress intended it, but I think that what is significant is not the label but what actual underlying rights were created."
+"Samuel A. Alito, Jr.","Well, if it were proprietary to the customer, in what sense is it proprietary to the customer, since it has all of those attributes that I mentioned?"
+Michael R. Dreeben,That's precisely my point.
+Sonia Sotomayor,"Could the government say to telecommunications providers, you cannot use this kind of information, you can't keep it?"
+Michael R. Dreeben,"Yes, I'm sure that in regulating that telephone companies are given a broad range --"
+Sonia Sotomayor,"So what's the difference between that and saying, if you want to create this information, you are taking this information from customers and it's the customer's information? You can't disclose it without the customer saying yea or nay."
+Michael R. Dreeben,Congress --
+Sonia Sotomayor,Isn't what that Congress did?
+Michael R. Dreeben,"No, because Congress provided that it shall be disclosed as required by law."
+Sonia Sotomayor,"Well, but then we -- then you're begging the question, which is Justice Gorsuch's question, which is: What's the -- what does the law, the Fourth Amendment, require in those circumstances?"
+Michael R. Dreeben,So this Court has been --
+Sonia Sotomayor,"You're -- you're saying Congress can set the level of what the Constitution requires, but I don't know that that's true."
+Michael R. Dreeben,"Well, I think it's definitely not true."
+Sonia Sotomayor,But that's --
+Michael R. Dreeben,-- is not a search of the customer.
+Sonia Sotomayor,But that's begging the question.
+Michael R. Dreeben,"Well, Congress can say a lot of things, and I think that the important thing that this Court has said as a corollary to my point about what the third-party doctrine is, is the Court has made clear that state laws that provide additional enhanced privacy protection do not alter Fourth Amendment baselines. It said that in Greenwood."
+Elena Kagan,"Mr. -- Mr. Dreeben, can I --"
+"John G. Roberts, Jr.",Justice -- Justice Breyer.
+Stephen G. Breyer,I just want your reaction to what I asked the other side.
+Michael R. Dreeben,So I don't think there --
+Stephen G. Breyer,"Because -- wait, there are other things, and I want to -- I'll be very specific about them through."
+Michael R. Dreeben,Yes.
+Stephen G. Breyer,"-- therefore, you don't want that interfered with."
+Michael R. Dreeben,No.
+Stephen G. Breyer,No.
+Michael R. Dreeben,"Well, I'd -- I'd --"
+Stephen G. Breyer,-- but how would you draw that line because that's the problem that's --
+Michael R. Dreeben,"I'm not going to draw, Justice Breyer --"
+Stephen G. Breyer,All right.
+Sonia Sotomayor,How would -- how would you like to lose? (Laughter.)
+Michael R. Dreeben,I do not think that -- I don't think it can be drawn coherently --
+Stephen G. Breyer,"Well, why not just say what he said on the other side? Say what's wrong with that? What we say is, look, what we have here is many, many days of the government taking previously unavailable tower information at the time of Miller, et cetera, now putting it together in order to track where this human being has been for a long period of time, something that never could have been gotten before, and to do that without some probable cause is an unreasonable thing."
+Michael R. Dreeben,It doesn't have a coherent principle that will explain why a similar rule shouldn't be applied to credit card records or debit card records or records of one's travel through Uber or through a myriad of other kinds of digital records that are created.
+Stephen G. Breyer,"Or, well -- well, maybe it does have a principle."
+Michael R. Dreeben,"So, Justice Breyer, there is a significant difference between the kinds of cases you're talking about involving direct governmental searching activity and governmental acquisition of information from businesses. The government is not monitoring the movements of this person by attaching a device to their person or by surveilling them, an issue that I think itself raises difficult questions since it does not appear that Petitioner objects to tailing somebody in multiple cars, even over 127 days. What we're talking about here is the distinction between the government going and getting information from an individual and the government going to a business and asking the business to serve as a witness. And I think Your Honor's point about how investigations proceed is exactly right. What the government does at the early stages of an investigation is reach out to third parties because it may not have enough information about whether a crime has been committed or whether a particular individual is culpable for that crime."
+Anthony M. Kennedy,"If -- if there -- if there's a shooting into a house, someone is killed, and witnesses say the shooter was running away with a cell phone, and the police ask the company to release all information about cell phones in that area, you don't have to go to the -- to get a 2703(d) order?"
+Michael R. Dreeben,"No, we do have to get a 2703(d) order."
+Anthony M. Kennedy,You do even -- even for --
+Michael R. Dreeben,Yes.
+Anthony M. Kennedy,-- a blanket search?
+Michael R. Dreeben,"Well, for -- I think what Justice Sotomayor described earlier is getting tower information."
+Anthony M. Kennedy,Right.
+Michael R. Dreeben,"-- in Florida, and the government did not have a clear idea of who the suspects would be."
+Anthony M. Kennedy,But you did need an order?
+Michael R. Dreeben,"Yes, we did need an order and we got an order."
+Elena Kagan,Right.
+Michael R. Dreeben,"So I -- I think that it is fundamentally different in the means that we chose to employ in Jones versus this case, and it's also different in what information we're acquiring."
+Elena Kagan,But let's assume you could.
+Michael R. Dreeben,So I would say that the third-party doctrine doesn't change.
+Elena Kagan,Would it be permissible for the government to ask a cell phone company for lifetime information?
+Michael R. Dreeben,Not under the current statutory regime and --
+Elena Kagan,"No, under your view of the Constitution."
+Michael R. Dreeben,"I think it would be highly questionable under the Constitution, and here's why: Providers, which are hardly shy about asserting Fourth Amendment rights, have protections against unduly broad subpoenas that this Court has recognized in a line of cases summed up in Donovan versus Lone Steer and summarized in our -- in our brief."
+Elena Kagan,Where is the line?
+Michael R. Dreeben,There has to be a showing of relevance.
+"John G. Roberts, Jr.","Well, all those protections are available in the magistrate's decision whether to issue the warrant, right? I -- I mean, you can --"
+Michael R. Dreeben,Yes.
+"Samuel A. Alito, Jr.","Now, yeah, Mr. Dreeben, in order to understand the issue here and to see the difference between this case and Jones, isn't it necessary to go back to old Supreme Court cases that describe -- that explain how the Fourth Amendment applies to a subpoena? Asking another -- asking a party or ordering a party to produce documents is not a search in the literal sense of the word, nor is it a seizure in the literal sense of the word, but cases going back to Boyd, and Hale versus Henkel, old cases say that it's a -- it's a constructive search."
+Michael R. Dreeben,Yes.
+"Samuel A. Alito, Jr.",-- different framework.
+Michael R. Dreeben,"It is a completely different framework because of both a lesser degree of intrusion, because the government is not going in itself and conducting search activity, and because there's an opportunity for pre-compliance judicial review."
+Stephen G. Breyer,All right.
+Michael R. Dreeben,No.
+Stephen G. Breyer,"Now, I know you'd say no --"
+Michael R. Dreeben,It doesn't -- doesn't work.
+Stephen G. Breyer,-- but I need to know the reason. (Laughter.)
+Michael R. Dreeben,"Well, let me -- the basic principle here in the Fourth Amendment is how the government acquires information matters, not the sensitivity of the information. I have to disagree, Justice Breyer, that medical information is given heightened protection under the Fourth Amendment."
+Stephen G. Breyer,But the diagnostic -- the diagnostic test to the hospital.
+Michael R. Dreeben,"Well, no."
+Stephen G. Breyer,Yeah.
+Michael R. Dreeben,-- you're referring to --
+Stephen G. Breyer,"Yeah, I am."
+Michael R. Dreeben,"-- involved a compelled search by the government, a urine test that the Court assumed was given without informed consent, so it was a government search by government hospital personnel that acquired the urine --"
+Stephen G. Breyer,All right.
+Michael R. Dreeben,-- for law enforcement purposes.
+Elena Kagan,"But -- but, Mr. Dreeben, that line of cases was developed in a period in which third parties did not have this kind of information, valid --"
+Michael R. Dreeben,"Not this kind specifically, Justice Kagan, but in -- in the dissenting opinion in Smith, Justice Stewart warned that you're getting incredibly intimate information when you get the phone numbers of people who you have called. And I would submit that if the Court thinks about it, the information you get if you know who you are calling and the inferences you can draw about what kinds of conversations people are having are extremely sensitive with --"
+Elena Kagan,"Yeah, but if --"
+Michael R. Dreeben,-- dialed phone numbers.
+Elena Kagan,"-- I understand what you're saying, you're basically saying, well, because the government is going to a third-party here and doing it by subpoena, it doesn't matter how sensitive the information is."
+Michael R. Dreeben,"I don't think I did say that, Justice Kagan, because there is an element here of voluntariness in deciding to contract with a cell company, just like there's an element of voluntariness in getting a landline phone and making calls, and there's an element of voluntariness in signing up for a bank account and using a debit card to purchase --"
+"John G. Roberts, Jr.",That --
+Michael R. Dreeben,-- everything in your life.
+"John G. Roberts, Jr.","-- that sounds inconsistent with our decision in Riley, though, which emphasized that you really don't have a choice these days if you want to have a cell phone."
+Michael R. Dreeben,"Well, and not -- not in a practical sense, I agree with you, Chief Justice Roberts, that Riley did point out that cell phones were necessities."
+Ruth Bader Ginsburg,Mr. Dreeben --
+Michael R. Dreeben,The fact that --
+Ruth Bader Ginsburg,-- what you do in bringing up Riley with the distinction you made between -- you say it's the means that the government is using -- -
+Michael R. Dreeben,Uh-huh.
+Ruth Bader Ginsburg,"-- we must be concerned about, not the information it obtains."
+Michael R. Dreeben,"Yes, it was a search. And I think that that's the key point."
+Neil Gorsuch,"Mr. Dreeben, it seems like your whole argument boils down to if we get it from a third-party we're okay, regardless of property interest, regardless of anything else."
+Michael R. Dreeben,"Well, I think that those -- those were writs that allowed people acting under governmental power to enter any place they wanted to search for anything that they wanted."
+Neil Gorsuch,"Isn't that exactly your argument here, that so long as a third party's involved, we can get anything we want?"
+Michael R. Dreeben,"Well, I think the search is being carried out under a writ of assistance by a government agent, operating under government authority; whereas here, we -- the -- if there's a search in the acquisition of cell site information, then it's the cell site company that is acquiring that information without governmental instigation, without --"
+Neil Gorsuch,The subpoena --
+Michael R. Dreeben,-- governmental agency --
+Neil Gorsuch,"-- being, though, the equivalent of a writ of assistance?"
+Michael R. Dreeben,"Oh, I don't think a subpoena is an equivalent of a writ of assistance."
+Neil Gorsuch,Yeah.
+Michael R. Dreeben,-- no limitations.
+Neil Gorsuch,"-- anything that any company has anywhere in the globe regardless of any property rights, regardless of any privacy interests, simply because it's a third-party?"
+Michael R. Dreeben,"So I -- I think that, as Justice Alito was explaining, there is a traditional understanding that dates back to the time of the founding that subpoenas stand on a different footing from search warrants. And they do that because they are less intrusive, since they do not require the government going into private property and searching itself."
+"John G. Roberts, Jr.",Why does that --
+Michael R. Dreeben,And --
+"John G. Roberts, Jr.",-- why does that make a difference? The subpoena tells the person who gets it: this is what you have to do.
+Michael R. Dreeben,"Well, I think that most --"
+"John G. Roberts, Jr.",Why is that less intrusive? The whole question is whether the information is accessible to the government.
+Michael R. Dreeben,So I -- I think most basically it makes a difference because this Court's cases have said so from time immemorial.
+"John G. Roberts, Jr.",Sure.
+Michael R. Dreeben,The -- the difference here is that the government is operating under court supervision with an order that provides particularity.
+"John G. Roberts, Jr.","Thank you, counsel. Four minutes, Mr. Wessler."
+Nathan Freed Wessler,"Thank you, Mr. Chief Justice. If I could begin, I have several points, but to begin on that subpoena point. And, Justice Alito, to -- to your question about the historical pedigree of the subpoena doctrine, I think this Court made absolutely clear in Riley that the historical pedigree of older Fourth Amendment doctrines does not automatically determine the outcome in the digital age. And as you yourself, Your Honor, recognized in your concurrence there, the search incident to arrest doctrine had its origins at least a century before the -- the framing of the Fourth Amendment, and yet it yielded to a new understanding. And I think that --"
+Nathan Freed Wessler,"Thank you, Mr. Chief Justice. If I could begin, I have several points, but to begin on that subpoena point. And, Justice Alito, to -- to your question about the historical pedigree of the subpoena doctrine, I think this Court made absolutely clear in Riley that the historical pedigree of older Fourth Amendment doctrines does not automatically determine the outcome in the digital age. And as you yourself, Your Honor, recognized in your concurrence there, the search incident to arrest doctrine had its origins at least a century before the -- the framing of the Fourth Amendment, and yet it yielded to a new understanding. And I think that --"
+"Samuel A. Alito, Jr.","That's certainly true, but you'd want to -- so this is -- this would be revolutionary, to fundamentally change the understanding of the application of the Fourth Amendment to subpoenas."
+Nathan Freed Wessler,"Well, I -- I don't think it's revolutionary at all."
+"Samuel A. Alito, Jr.","No, I understand that, but you said in your brief that the -- that the companies wouldn't comply."
+Nathan Freed Wessler,That I -- I don't know what the state of -- of play is today.
+"Samuel A. Alito, Jr.",Could I just ask you this question: Is any of this going to do any good for -- for Mr. Carpenter? (Laughter.)
+"Samuel A. Alito, Jr.","Is he going to get anything suppressed? Because under Illinois versus Krull, if -- if a search is conducted in reliance on a statute authorizing the search in accordance with a certain procedure, the exclusionary rule doesn't apply."
+Nathan Freed Wessler,May I answer? Thank you. So the -- that question is not before this -- this Court.
+"Samuel A. Alito, Jr.","No, I understand that. Just --"
+Nathan Freed Wessler,It will be dealt with on remand.
+"John G. Roberts, Jr.","Thank you, counsel."
